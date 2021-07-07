@@ -1,1 +1,1 @@
-"ok main3"
+ok
